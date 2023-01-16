@@ -48,6 +48,11 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot (972)](https://user-images.githubusercontent.com/118720453/212601554-12b751ef-2377-4cb0-8446-ffe2166e7c78.png)
 
+Static Web App - 
+
+![Screenshot (974)](https://user-images.githubusercontent.com/118720453/212605833-40fb97e7-38e8-45db-80d6-830cd859654e.png)
+
+
 
 ## Tech Stack 
 
