@@ -51,7 +51,7 @@ This is a web based application developed for health related based website in in
 
 ## Tech Stack 
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- [Azure(Hosting)]
 - HTML
 - CSS
 - JavaScript
